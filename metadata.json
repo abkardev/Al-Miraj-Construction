@@ -1,0 +1,6 @@
+{
+  "name": "Al-Miraj Construction",
+  "description": "Premium corporate website for Al-Miraj Construction & Contracting group, featuring high-end industrial design, interactive 3D architectural blueprint visuals, and full Arabic-English RTL support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
