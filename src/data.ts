@@ -10,9 +10,9 @@ import {
   Metric
 } from './types';
 
-// Let's reference our custom generated high-quality assets
-export const HERO_IMAGE = '/src/assets/images/hero_industrial_construction_1780672679478.png';
-export const STRUCTURE_IMAGE = '/src/assets/images/industrial_structure_1780672696540.png';
+// Let's reference our custom external high-quality assets
+export const HERO_IMAGE = 'https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=1200&q=80';
+export const STRUCTURE_IMAGE = 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1200&q=80';
 
 // Fallback high-contrast dark industrial image for various sections
 export const SECONDARY_HERO = 'https://picsum.photos/seed/concrete/1200/800';
